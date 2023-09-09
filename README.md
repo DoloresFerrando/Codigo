@@ -2,7 +2,7 @@
 
 En este repositorio se encuentra el código utilizado para analizar y desarrollar las conclusiones elaboradas en el trabajo "Técnicas de Data Science aplicadas al forecasting de ventas en retail". 
 
-El código está en lenguaje Python versión 3.9.13.
+El código está en lenguaje Python versión 3.9.13 sobre Jupyter Notebook.
 
 ## Recursos instalados sobre Python para poder ejecutar los programas
 
